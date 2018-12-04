@@ -1,6 +1,5 @@
 import unittest
 from mod1 import addition as md1
-from mod2 import subtraction as md2
 
 class TestAdd(unittest.TestCase):
 
